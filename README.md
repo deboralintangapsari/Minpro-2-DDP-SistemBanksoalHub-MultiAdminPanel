@@ -91,14 +91,13 @@ Saat dosen memilih menu 3 maka program akan meminta dosen memilih nomor berapa y
 Output program diatas adalah contoh dalam menghapus soal, disini saya mencontohkan untuk menghapuskan soal nomor 3. <br>
 
 `if dosen memilih menu == 5` <br>
-
 <img width="293" height="185" alt="image" src="https://github.com/user-attachments/assets/9b98772b-ab6b-4f85-bc45-8b731c3cb283" /> <br>
 
 Pada output diatas, program akan menampilkan "logout berhasil" namun tidak dapat saya perlihatkan pada dokumentasi dikarenakan dia akan ter-clear otomatis dengan fungsi os. <br>
 <br>
 
+**4. Login Mahasiswa** <br>
 
-**4. Login Mahasiswa**
 <img width="280" height="167" alt="image" src="https://github.com/user-attachments/assets/8a0fe71f-81b0-4e14-a30d-1ccce023973c" /> <br>
 
 Output diatas adalah apabila mahasiswa salah memasukkan NIM atau ada NIM yang belum ter-input, disini saya memasukkan 5 NIM saja di dalam program, disini mahasiswa hanya perlu menekan tombol enter untuk kembali ke menu utama
@@ -113,7 +112,33 @@ Output diatas adalah apabila mahasiswa memasukkan NIM dan password dengan benar,
 
 **5. Menu Mahasiswa** <br>
 
-`if mahasiswa pilih menu == 1`
+`if mahasiswa pilih menu == 1` <br>
+
+<img width="595" height="377" alt="Screenshot 2026-10-06 180028" src="https://github.com/user-attachments/assets/42a35b3e-ce57-4377-8b92-6b31ceb5d72c" /> <br>
+
+Output diatas adalah saat mahasiswa memilih menu lihat soal, dan sebelumnya dosen telah menambahkan soal, jadi soal sudah bisa di akses, bedanya dengan menu dosen adalah, dosen memiliki kunci jawaban, sedangkan mahasiswa tidak. <br>
+
+`if mahasiswa pilih menu == 2` <br>
+<img width="286" height="424" alt="image" src="https://github.com/user-attachments/assets/21d56d26-a41b-4330-895e-deb0649c63d6" /> <br>
+
+Output diatas adalah saat mahasiswa memilih menu kerjakan kuis, dan setelah kuis dikerjakan, program akan menampilkan skor penilaian dari apa yang sudah dikerjakan oleh mahasiswa.
+
+`if mahasiswa pilih menu == 3` <br>
+<img width="274" height="185" alt="image" src="https://github.com/user-attachments/assets/bda0b6c6-12ff-479a-9871-b9c284d6d355" /><br>
+
+Output diatas adalah saat mahasiswa ingin logout, program akan menampilkan kata `logout berhasil `, tetapi pada dokumentasi tidak dapat terlihat dikarenakan fitur os yang ada di program <br>
+
+
+**6. Menu Keluar** <br>
+<img width="404" height="188" alt="Screenshot 2026-10-06 180747" src="https://github.com/user-attachments/assets/a687585e-d983-4900-9e6f-51d9e7628854" /> <br>
+
+
+Pada saat user (mahasiswa/dosen) memilih menu ke 3 yaitu keluar, maka program akan menampilkan seperti dokumentasi diatas.
+
+
+
+
+
 
 
 
