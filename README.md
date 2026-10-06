@@ -162,6 +162,24 @@ Disini saya menggunakan 3 library
 
 <img width="248" height="56" alt="image" src="https://github.com/user-attachments/assets/a161aadf-bcbc-493b-9c9d-efbfb789bf8f" /> <br>
 
+`os dalam def (function)` <br>
+<img width="329" height="52" alt="image" src="https://github.com/user-attachments/assets/5591d796-0dd2-4d20-84c9-14aaa4c0d61c" /> <br?
+
+Saat sudah masuk ke dalam function, selanjutnya kita hanya perlu melakukan pemanggilan pada setiap pergantian def <br>
+contoh : <br>
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/48a809b1-f0dc-49be-9c2c-8f4ec869f5a1" />
+
+`prettytabel` <br> 
+kode program : <br>
+<img width="314" height="210" alt="image" src="https://github.com/user-attachments/assets/a3b4ece3-50f0-465c-a411-ff7f9d8016a3" /> <br>
+
+contoh : <br>
+<img width="650" height="227" alt="Screenshot 2026-10-06 172717" src="https://github.com/user-attachments/assets/54417df4-4d65-4ef4-b855-71523f26f2a7" /> <br>
+
+`pwinput` <br>
+contoh output : <br>
+<img width="286" height="98" alt="image" src="https://github.com/user-attachments/assets/92a368eb-d416-4eea-9e3b-7847e3f55787" /> <br>
+
 os digunakan untuk membersihkan tampilan terminal. <br>
 PrettyTable digunakan untuk menampilkan daftar soal dalam bentuk tabel. <br>
 pwinput digunakan untuk menyembunyikan password saat proses login. <br>
