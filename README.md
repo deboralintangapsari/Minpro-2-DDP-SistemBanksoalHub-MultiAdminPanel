@@ -132,8 +132,44 @@ Output diatas adalah saat mahasiswa ingin logout, program akan menampilkan kata 
 **6. Menu Keluar** <br>
 <img width="404" height="188" alt="Screenshot 2026-10-06 180747" src="https://github.com/user-attachments/assets/a687585e-d983-4900-9e6f-51d9e7628854" /> <br>
 
-
 Pada saat user (mahasiswa/dosen) memilih menu ke 3 yaitu keluar, maka program akan menampilkan seperti dokumentasi diatas.
+
+# Penjelasan Penerapan validasi input & penggunaan library 
+**1. Validasi Input -> Menggunakan error handling** <br>
+
+Program ini sudah ada validasi input. Jadi kalau pengguna salah memasukkan pilihan, program tidak langsung berhenti, tetapi akan muncul pesan “Pilihan tidak valid!” dan pengguna bisa memasukkan pilihan lagi. <br>
+
+`Kode Program :`  <br>
+
+<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/23cb4fb3-04b1-4e1d-a050-5cbe8f2a4284" /> <br>
+
+`contoh output` <br>
+
+<img width="270" height="161" alt="image" src="https://github.com/user-attachments/assets/fd7d4bbc-8a86-4c16-8544-1bf72a62aebf" /> <br>
+
+atau <br>
+
+<img width="487" height="199" alt="image" src="https://github.com/user-attachments/assets/ace390e5-2c18-4911-9ef9-e9a38d539179" /> <br>
+
+**2. Penggunaan Library** <br>
+
+Disini saya menggunakan 3 library 
+- os
+- PrettyTabel
+- pwinput
+
+`kode` <br>
+
+<img width="248" height="56" alt="image" src="https://github.com/user-attachments/assets/a161aadf-bcbc-493b-9c9d-efbfb789bf8f" /> <br>
+
+os digunakan untuk membersihkan tampilan terminal. <br>
+PrettyTable digunakan untuk menampilkan daftar soal dalam bentuk tabel. <br>
+pwinput digunakan untuk menyembunyikan password saat proses login. <br>
+
+
+
+
+
 
 
 
